@@ -94,7 +94,3 @@ Having issues? Check:
 1. [GET_STARTED.md](GET_STARTED.md) - Quick fixes
 2. [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) - Installation help
 3. [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Detailed solutions
-
-## 📝 License
-
-MIT License - Feel free to use and modify!
