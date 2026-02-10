@@ -1,0 +1,22 @@
+# Minimal requirements - Core functionality only
+# Use this if you have installation issues with requirements.txt
+
+# Neo4j driver
+neo4j>=5.14.0
+
+# LangChain for AI queries
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+
+# OpenAI API
+openai>=1.12.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Note: Oracle connector (oracledb) is excluded - use sample_metadata.py instead
+# Note: Jupyter is excluded - install separately if needed: pip install jupyter

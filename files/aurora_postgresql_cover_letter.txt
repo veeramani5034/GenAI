@@ -1,0 +1,35 @@
+Subject: Senior Aurora PostgreSQL Performance & Architecture Advisor
+
+Dear Hiring Manager,
+
+I'm reaching out regarding your Aurora PostgreSQL performance engineering role. With extensive experience architecting and optimizing large-scale PostgreSQL deployments on AWS, I can provide the hands-on guidance you need to build a high-performance analytical database handling billions of rows.
+
+What I bring to your project:
+
+**Aurora PostgreSQL at Scale**
+I've architected Aurora clusters handling multi-billion row analytical workloads, understanding the nuances of Aurora's storage architecture, read replica behavior, and how it differs from standard PostgreSQL at extreme scale. I know where Aurora shines and where careful design is critical.
+
+**Performance-First Architecture**
+My approach focuses on making the right decisions upfront—choosing appropriate instance classes, storage configurations, and cluster topology based on your specific analytical query patterns and concurrency requirements. I'll help you avoid costly architectural mistakes that are difficult to reverse later.
+
+**Partitioning for Billions of Rows**
+I have hands-on experience designing partition strategies for tables exceeding 4B rows, including range, list, and hybrid approaches. I'll guide you through partition key selection, partition sizing, partition pruning optimization, and maintenance automation—critical for query performance at this scale.
+
+**Analytical Indexing Strategy**
+I understand the trade-offs between B-tree, BRIN, and partial indexes for analytical workloads. I'll help you design an indexing strategy that accelerates your queries without creating excessive write overhead or storage bloat during bulk loads.
+
+**Bulk Load Optimization**
+I've optimized numerous large-scale data loading pipelines, including parallel loading strategies, COPY optimization, constraint management, and index rebuild approaches that minimize load times while maintaining data integrity.
+
+**AWS Cloud Integration**
+Beyond the database, I'll advise on VPC design, security groups, parameter groups, CloudWatch monitoring, backup strategies, and cost optimization—ensuring your Aurora deployment integrates seamlessly with your broader AWS architecture.
+
+**My Working Approach**
+I focus on advisory and hands-on guidance, not taking over your data modeling or ETL. I'll review your requirements, recommend architectural patterns, help you configure and tune your environment, and provide clear documentation of decisions and rationale. You maintain ownership while gaining expert guidance.
+
+I'm available to start immediately and can work flexibly around your schedule. I'd welcome a brief call to discuss your specific analytical workload patterns and timeline.
+
+Looking forward to helping you build a robust, high-performance Aurora PostgreSQL environment.
+
+Best regards,
+[Your Name]

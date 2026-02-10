@@ -1,0 +1,9 @@
+Collecting neo4j
+  Using cached neo4j-6.1.0-py3-none-any.whl.metadata (5.3 kB)
+Collecting pytz (from neo4j)
+  Using cached pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Using cached neo4j-6.1.0-py3-none-any.whl (325 kB)
+Using cached pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Installing collected packages: pytz, neo4j
+
+Successfully installed neo4j-6.1.0 pytz-2025.2
